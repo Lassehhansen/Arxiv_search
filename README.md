@@ -1,4 +1,4 @@
-# Arxiv_search
+# Arxiv Search
 
 ## Downloading the Arxiv Dataset:
 
@@ -21,7 +21,7 @@ while read line; do
 done < arxiv_urls.txt
 ```
 
-### Dataset description
+## Dataset description
 
 - 88 GB
 - Total number of texts in JSONL files: 1558306
