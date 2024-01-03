@@ -23,7 +23,7 @@ done < arxiv_urls.txt
 
 ## Dataset description
 
-- 88 GB
+- 93.8 GB
 - Total number of texts in JSONL files: 1558306
 - Total number of texts that contain either AUROC OR AUPRC related keywords: 16022
 - Total number of texts that contain both: 8244
